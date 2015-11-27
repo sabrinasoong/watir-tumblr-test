@@ -1,5 +1,5 @@
 #Gemfile
 source 'https://rubygems.org'
 
-gem 'rspec', '~>3.2.0', :require => 'spec'
-gem 'selenium-webdriver'
+gem 'rspec'
+gem 'watir'
